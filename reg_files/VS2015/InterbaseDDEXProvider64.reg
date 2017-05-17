@@ -1,0 +1,39 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataSources\{2979569E-416D-4DD8-B06B-EBCB70DE7A4E}]
+@="Interbase Data Source"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataSources\{2979569E-416D-4DD8-B06B-EBCB70DE7A4E}\SupportingProviders\{92421248-F044-483A-8237-74C7FBC62971}]
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}]
+@=".NET Framework Data Provider for Interbase"
+"DisplayName"="Provider_DisplayName, InterbaseSql.VisualStudio.DataTools.Properties.Resources"
+"ShortDisplayName"="Provider_ShortDisplayName, InterbaseSql.VisualStudio.DataTools.Properties.Resources"
+"Description"="Provider_Description, InterbaseSql.VisualStudio.DataTools.Properties.Resources"
+"CodeBase"="D:\\Projects\\DDEX\\InterbaseSql.VisualStudio.DataTools\\InterbaseSql.VisualStudio.DataTools\\bin\Debug\\InterbaseSql.VisualStudio.DataTools.dll"
+"InvariantName"="InterbaseSql.Data.InterbaseClient"
+"Technology"="{77AB9A9D-78B9-4ba7-91AC-873F5338F1D2}"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects]
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects\DataConnectionSupport]
+@="InterbaseSql.VisualStudio.DataTools.IbDataConnectionSupport"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects\DataConnectionProperties]
+@="InterbaseSql.VisualStudio.DataTools.IbDataConnectionProperties"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects\DataConnectionUIControl]
+@="InterbaseSql.VisualStudio.DataTools.IbDataConnectionUIControl"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects\DataSourceInformation]
+@="InterbaseSql.VisualStudio.DataTools.IbDataSourceInformation"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects\DataObjectSupport]
+@="InterbaseSql.VisualStudio.DataTools.IbDataObjectSupport"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\DataProviders\{92421248-F044-483A-8237-74C7FBC62971}\SupportedObjects\DataViewSupport]
+@="InterbaseSql.VisualStudio.DataTools.IbDataViewSupport"
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\14.0_Config\Services\{AEF32AEC-2167-4438-81FF-AE6603341536}]
+@="{8d9358ba-ccc9-4169-9fd6-a52b8aee2d50}"
+"Name"="Interbase Provider Object Factory"
